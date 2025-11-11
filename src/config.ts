@@ -23,12 +23,6 @@ export const LightConfig: Record<
         lit_style: "bg-green-500 shadow-lg shadow-green-500/50",
         unlit_style: "bg-green-900/30",
         duration: 5000,
-        next: "amber",
-    },
-    amber: {
-        lit_style: "bg-amber-500 shadow-lg shadow-amber-500/50",
-        unlit_style: "bg-amber-900/30",
-        duration: 1000,
         next: "red",
     },
 };
